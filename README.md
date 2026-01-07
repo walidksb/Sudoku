@@ -19,7 +19,7 @@ The program supports:
 - ✅ Decoding and readable display of the solution
 - ✅ Detection and display of "UNSAT" when the grid is unsolvable
 
----
+----
 
 ## ⚙️ Installation
 
